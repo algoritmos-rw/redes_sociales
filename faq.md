@@ -38,9 +38,9 @@ Por mala suerte, tengo que decir que no. Ya estoy con otras 2 materias, imposibl
 
 #### ¿Hay alguna materia que podría ser útil haber cursado anteriormente? 
 
-Creo que tener Ciencia de Datos hecha anteriormente sería útil. 
+Creo que tener Ciencia de Datos hecha anteriormente sería útil. Además, bueno, mantengo la recomendación de haber hecho Teoría Algorítmica de Juegos.
 
-#### ¿Qué tan pesada va a ser la materia? Tenía pensado hacer Taller, Sisop, Análisis III, Base de Datos e Inglés… tal vez me queda un huequito para una sexta materia.  
+#### ¿Qué tan pesada va a ser la materia? Tenía pensado hacer Taller, Sisop, Análisis III, Base de Datos y Numérico… tal vez me queda un huequito para una sexta materia.  
 
 La idea no es ser demasiado gede con la materia. Para eso ya tengo a Algoritmos, o incluso TDA. Hablando en serio, no es lo mismo una electiva terminal que una obligatoria base de toda la carrera. El ritmo es diferente. Para el proyecto hay muchas cosas que se pueden hacer. Y si, la calidad de lo que hagan depende mucho más de ustedes que de mí: si quieren hacer algo sencillo para zafar, posiblemente lo logren. Yo les pido que le pongan un toque de onda. La idea es que entre todos aprendamos un poco del tema. 
 
