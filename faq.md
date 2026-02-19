@@ -12,13 +12,9 @@ No. El curso es sobre entender las redes sociales, analizar, aplicar algoritmos,
 Hay mucho más de redes sociales que las apps conocidas de redes sociales.
 Desde el modelado de mercados, relaciones entre países, redes de computadoras, o un tema del que se puede hablar mucho hoy en día: modelación de transmisión de epidemias. 
 
-#### ¿Es realmente necesaria Teoría de Juegos?
+#### ¿Sería necesaria Teoría de Juegos?
 
-Si. Antes, por no existir esa materia, debíamos explicar durante dos semanas cosas básicas de forma muy apurada, que ahora mismo ya no es más necesario y ya deberían entenderlo mucho mejor. 
-
-#### ¿Es realmente necesaria Sistemas Complejos?
-
-En absoluto. No habría problema con aceptar la excepción de correlatividad, pero para asentar la materia oficialmente van a necesitar aprobar eventualmente dicha materia. 
+En lo posible, si la tienen, mucho mejor. Antes, por no existir esa materia, debíamos explicar durante dos semanas cosas básicas de forma muy apurada, que ahora mismo ya no es más necesario y ya deberían entenderlo mucho mejor. En todo caso, daremos las cosas que nosotros consideramos, y les diremos que consulten material de allí de las primeras clases si quieren que les cierre más. 
 
 #### Pero… ¿Va a haber mucha matemática?
 
